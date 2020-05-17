@@ -1,0 +1,16 @@
+@media (max-width: 991px) { 
+	.desktop_view{
+		display: none;
+	}
+ }
+
+ @media (min-width: 992px) { 
+	.mobile_view{
+		display: none;
+	}
+ }
+
+.hover_tablecell:hover {
+	background: #fff;
+	color: black;
+}
